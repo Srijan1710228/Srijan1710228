@@ -1,589 +1,342 @@
-# MASTER PROMPT — REPLICATE THIS GITHUB README STYLE EXACTLY
+<div align="center">
 
-Act as a world-class GitHub Profile README designer and senior software branding expert.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Srijan%20Prakash&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-Your task is to generate a COMPLETE, production-ready GitHub README.md file.
+# Hi 👋 I'm Srijan Prakash
 
-IMPORTANT:
+### AI/ML Engineer • Full Stack Developer • Software Engineering Enthusiast
 
-I do NOT want:
-- A simplified version.
-- An alternative design.
-- A different layout.
-- A different visual hierarchy.
-- A creative interpretation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+TrackTech+%E2%80%94+Think.+Transform.+Triumph.;AI%2FML+%7C+Full+Stack+Development;Java+%7C+C%2B%2B+%7C+React+%7C+Next.js+%7C+Node.js;Open+Source+Contributor;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-I want the README generated in EXACTLY the same structure, styling, spacing, section order, markdown formatting, badge usage, tables, collapsible project sections, GitHub analytics blocks, SVG widgets, and overall premium aesthetic as the reference README.
+<br>
 
-The final README should look like it belongs to a Senior Software Engineer at a FAANG-level company.
+![](https://img.shields.io/badge/SRMIST-KTR-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/CSE-AIML-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2029-7B68EE?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Lucknow-8A2BE2?style=for-the-badge)
 
-------------------------------------------------------------
+<br>
 
-## CRITICAL REQUIREMENTS
+<a href="https://www.linkedin.com/in/srijan288">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-DO NOT fabricate or invent:
+<a href="mailto:srijan17octlucknow@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- Experience
-- Internships
-- Companies
-- Projects
-- Certifications
-- Awards
-- GitHub repositories
-- Statistics
-- Social links
-- Achievements
+<a href="https://github.com/Srijan1710228">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-If any information is unavailable:
+<br><br>
 
-- Either omit that item
-OR
-- Leave a clearly marked placeholder:
+![](https://komarev.com/ghpvc/?username=Srijan1710228&style=for-the-badge&color=blueviolet)
 
-{{NAME}}
-{{USERNAME}}
-{{EMAIL}}
-{{LOCATION}}
-{{PORTFOLIO}}
-{{LINKEDIN}}
-{{GITHUB}}
-{{PROJECTS}}
-{{CERTIFICATIONS}}
-{{EXPERIENCE}}
+![](https://img.shields.io/github/followers/Srijan1710228?style=for-the-badge&color=8A2BE2)
 
-Never create fake content.
+![](https://img.shields.io/github/stars/Srijan1710228?style=for-the-badge&color=7B68EE)
 
-------------------------------------------------------------
-
-## DESIGN THEME
-
-Dark luxury aesthetic
-
-Purple / Indigo / Violet gradient
-
-Enterprise engineering branding
-
-Premium FAANG portfolio
-
-Recruiter-friendly
-
-Modern
-
-Minimal
-
-Professional
-
-No personal photos
-
-No project screenshots
-
-No placeholder images
-
-No stock photos
-
-Use ONLY:
-
-- SVG widgets
-- Badges
-- GitHub Stats
-- Activity Graphs
-- Contribution Snake
-- Markdown
-- GitHub-supported HTML
-
-Do NOT use:
-
-- CSS
-- JavaScript
-- Unsupported HTML
-- External frameworks
-
-The README must render perfectly on GitHub Desktop and Mobile.
-
-------------------------------------------------------------
-
-## README STRUCTURE
-
-FOLLOW THIS ORDER EXACTLY.
-
-# 1. Animated Header
-
-Include:
-
-• Capsule Render Wave Banner
-
-• Typing SVG Animation
-
-• Academic Badges
-
-• Location Badge
-
-• Portfolio Button
-
-• LinkedIn Button
-
-• Email Button
-
-• GitHub Button
-
-• Profile Views Badge
-
-• Followers Badge
-
-• Stars Badge
-
-------------------------------------------------------------
-
-# 2. About Me
-
-Professional engineering biography.
-
-Focus on:
-
-• Software Engineering
-
-• AI / ML
-
-• Full Stack Development
-
-• Backend Engineering
-
-• Product Engineering
-
-• Open Source
-
-• Current Focus
-
-• Open To
-
-The first screen must allow a recruiter to understand:
-
-- Who I am
-- What I build
-- What I specialize in
-- How to contact me
-
-within 10 seconds.
-
-------------------------------------------------------------
-
-# 3. Tech Stack
-
-Use Skill Icons.
-
-Organize into:
-
-Languages
-
-Frontend
-
-Backend
-
-Databases
-
-AI / ML
-
-Cloud
-
-DevOps
-
-Tools
-
-------------------------------------------------------------
-
-# 4. AI / ML Expertise
-
-Professional markdown table.
-
-Columns:
-
-Domain
-
-Proficiency
-
-Technologies
-
-Details
-
-------------------------------------------------------------
-
-# 5. Featured Projects
-
-Each project MUST be inside:
-
-<details>
-<summary>Project Name</summary>
-
-...
-
-</details>
-
-Every project includes:
-
-Professional description
-
-Markdown table:
-
-| Category | Details |
-
-Stack
-
-Architecture
-
-Scale
-
-Performance
-
-Security
-
-Features
-
-Impact
-
-Repository
-
-Live Demo (if available)
-
-Professional explanation
-
-Repeat for every project.
-
-------------------------------------------------------------
-
-# 6. Experience
-
-Professional timeline.
-
-Each experience includes:
-
-Company
-
-Role
-
-Date
-
-Description
-
-Responsibilities
-
-Technology Tags
-
-------------------------------------------------------------
-
-# 7. Achievements
-
-Centered markdown table.
-
-Columns:
-
-Recognition
-
-Organization
-
-Details
-
-------------------------------------------------------------
-
-# 8. Certifications
-
-Grouped by provider.
-
-Examples:
-
-AWS
-
-Oracle
-
-Cisco
-
-Google
-
-Microsoft
-
-NPTEL
-
-Coursera
-
-Use professional badges.
-
-------------------------------------------------------------
-
-# 9. Coding Profiles
-
-Large premium badges.
-
-LeetCode
-
-CodeChef
-
-Codeforces
-
-GeeksforGeeks
-
-HackerRank
-
-AtCoder
-
-------------------------------------------------------------
-
-# 10. GitHub Analytics
-
-Render in EXACT order:
-
-1. GitHub Stats
-
-2. Streak Stats
-
-3. Top Languages
-
-4. Activity Graph
-
-5. GitHub Trophies
-
-------------------------------------------------------------
-
-# 11. GitHub Trophies
-
-Premium centered layout.
-
-------------------------------------------------------------
-
-# 12. Contribution Activity
-
-GitHub Activity Graph.
-
-------------------------------------------------------------
-
-# 13. Contribution Snake
-
-Animated Snake SVG.
-
-------------------------------------------------------------
-
-# 14. Current Focus
-
-Professional YAML block.
-
-Learning
-
-Building
-
-Researching
-
-Open Source
-
-Open To
-
-------------------------------------------------------------
-
-# 15. Connect
-
-Professional buttons for:
-
-Email
-
-LinkedIn
-
-GitHub
-
-Portfolio
-
-Twitter (optional)
-
-Resume (optional)
-
-------------------------------------------------------------
-
-# 16. Footer
-
-Professional quote.
-
-Capsule Render footer banner.
-
-------------------------------------------------------------
-
-## FORMATTING RULES
-
-Maintain consistent spacing.
-
-Use markdown separators:
+</div>
 
 ---
 
-between every section.
+# 💫 About Me
 
-Use centered HTML blocks where appropriate.
+```yaml
+Name: Srijan Prakash
 
-Use markdown tables.
+Education:
+  College: SRM Institute of Science and Technology (KTR)
+  Branch: Computer Science Engineering (AI & ML)
+  Graduation: 2029
 
-Use collapsible project cards.
+Focus Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Backend Engineering
+  - Software Engineering
 
-Use premium badges.
+Current Mission:
+  Building impactful software while continuously improving
+  problem-solving, software engineering, and AI skills.
 
-Use:
+Flagship Project:
+  TrackTech
+  "Think. Transform. Triumph."
+```
 
-flat-square
+---
 
-and
+## 🚀 Professional Summary
 
-for-the-badge
+I am a **Computer Science (AI & ML)** undergraduate at **SRM Institute of Science and Technology, KTR**, passionate about building scalable software and solving real-world problems through technology.
 
-styles appropriately.
+My interests span **Artificial Intelligence, Machine Learning, Backend Engineering, and Full Stack Development**. I enjoy designing reliable systems, creating intuitive user experiences, and continuously expanding my engineering skills through hands-on projects and open-source learning.
 
-Typography must remain clean and professional.
+I am currently focused on strengthening my expertise in modern software engineering practices while building meaningful products that create measurable impact.
 
-Avoid excessive emojis.
+---
 
-Use only Purple, Indigo, Violet, Blue accents.
+# 🎯 Current Focus
 
-Every external link must be clickable.
+- 🤖 Artificial Intelligence & Machine Learning
 
-------------------------------------------------------------
+- 🌐 Full Stack Web Development
 
-## WIDGET REQUIREMENTS
+- ⚡ Backend System Design
 
-Every GitHub widget must use publicly available production-ready URLs.
+- ☁️ Cloud-based Applications
 
-Examples include:
+- 🚀 Open Source Contributions
 
-Capsule Render
+- 💡 Building **TrackTech — Think. Transform. Triumph.**
 
-Readme Typing SVG
+---
 
-GitHub Readme Stats
+# 🛠 Tech Stack
 
-GitHub Streak Stats
+## 💻 Languages
 
-GitHub Activity Graph
+<p align="center">
 
-GitHub Profile Trophy
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css)](https://skillicons.dev)
 
-Contribution Snake
+</p>
 
-Komarev Visitor Badge
+---
 
-Skill Icons
+## 🎨 Frontend
 
-Shields.io
+<p align="center">
 
-No broken URLs.
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
-No deprecated services.
+</p>
 
-------------------------------------------------------------
+---
 
-## SEO & RECRUITER OPTIMIZATION
+## ⚙ Backend
 
-Naturally include keywords such as:
+<p align="center">
 
-Software Engineer
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-AI Engineer
+</p>
 
-Machine Learning
+Fastify
 
-Full Stack Developer
+---
 
-Backend Developer
+## 🗄 Databases
 
-Frontend Developer
+<p align="center">
 
-Java
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase)](https://skillicons.dev)
 
-Python
+</p>
 
-C++
+---
 
-React
+## 🤖 AI / ML
 
-Next.js
+| Domain | Technologies |
+|---------|--------------|
+| Programming | Python |
+| Data Analysis | NumPy • Pandas |
+| Machine Learning | Scikit-learn |
+| Computer Vision | OpenCV |
 
-Node.js
+---
 
-Spring Boot
+## ☁ Cloud
 
-FastAPI
+<p align="center">
 
-Cloud
+<img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,docker"/>
 
-Docker
+</p>
 
-Kubernetes
+Supabase
 
-Open Source
+---
 
-Competitive Programming
+## ⚙ DevOps
 
-Data Structures
+<p align="center">
 
-Algorithms
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux"/>
 
-System Design
+</p>
 
-without keyword stuffing.
+---
 
-------------------------------------------------------------
+## 🧰 Tools
 
-## COMPATIBILITY
+<p align="center">
 
-Generate ONLY:
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,npm"/>
 
-GitHub-Flavored Markdown
+</p>
 
-and
+---
 
-GitHub-supported HTML.
+# 🧠 AI / ML Expertise
 
-No CSS.
+| Domain | Proficiency | Technologies | Details |
+|---------|------------|--------------|---------|
+| Machine Learning | Intermediate | Scikit-learn | Building predictive ML models |
+| Data Analysis | Intermediate | Pandas, NumPy | Data preprocessing & analysis |
+| Computer Vision | Beginner | OpenCV | Image processing fundamentals |
+| Python Programming | Intermediate | Python | AI and automation development |
+| Data Structures | Intermediate | Java, C++ | Problem-solving & algorithmic thinking |
 
-No JavaScript.
+---
 
-No unsupported HTML.
+> **"Think. Transform. Triumph."**
+>
+> *Building technology that creates meaningful impact.*
 
-Everything must render correctly on GitHub.
+---**# 🚀 Featured Projects
 
-------------------------------------------------------------
+<details>
+<summary><b>🧠 TrackTech — Think. Transform. Triumph.</b></summary>
 
-## OUTPUT RULES
+### Overview
 
-Return ONLY the final README.md.
+TrackTech is my flagship long-term software engineering project focused on building impactful technology through modern software architecture, intelligent automation, and scalable system design.
 
-Do NOT explain anything.
+| Category | Details |
+|-----------|---------|
+| Status | 🚧 In Development |
+| Role | Founder & Developer |
+| Type | Full Stack Application |
+| Focus | AI • Automation • Productivity |
+| Repository | Coming Soon |
+| Live Demo | Coming Soon |
 
-Do NOT describe the design.
+### Planned Technology Stack
 
-Do NOT add comments.
+- Next.js
+- React
+- Node.js
+- Fastify
+- Supabase
+- PostgreSQL
+- Tailwind CSS
 
-Do NOT wrap sections in explanations.
+### Vision
 
-Do NOT output multiple markdown blocks.
+TrackTech represents my commitment to designing meaningful software solutions while continuously improving my skills in software engineering, AI, and scalable backend development.
 
-Return ONE COMPLETE README.md in a single markdown block.
+</details>
 
-------------------------------------------------------------
+---
 
-## QUALITY TARGET
+<details>
+<summary><b>🌐 Full Stack Web Application</b></summary>
 
-The final README should resemble:
+### Overview
 
-Top 1% GitHub Profile
+A production-ready full stack application showcasing modern frontend and backend development practices.
 
-Senior Software Engineer Portfolio
+| Category | Details |
+|-----------|---------|
+| Status | 🚧 Under Development |
+| Repository | Coming Soon |
+| Live Demo | Coming Soon |
 
-AI Engineer Portfolio
+### Planned Stack
 
-Open Source Contributor Profile
+- React
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
 
-FAANG-level GitHub Branding
+### Goals
 
-Enterprise Developer Presence
+- Responsive UI
+- Secure Authentication
+- REST APIs
+- Modern Dashboard
+- Database Integration
 
-Recruiter-Optimized Engineering Profile
+</details>
 
-Professional Personal Brand
+---
 
-Pixel-perfect GitHub Profile README
+<details>
+<summary><b>🤖 AI / Machine Learning Project</b></summary>
 
-------------------------------------------------------------
+### Overview
 
-Generate the COMPLETE README now.
+A machine learning project exploring practical AI applications using Python and modern ML libraries.
+
+| Category | Details |
+|-----------|---------|
+| Status | 🚧 In Progress |
+| Repository | Coming Soon |
+| Live Demo | Coming Soon |
+
+### Planned Stack
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- OpenCV
+
+### Goals
+
+- Data Analysis
+- Model Training
+- Performance Evaluation
+- Real-world AI Applications
+
+</details>
+
+---
+
+<details>
+<summary><b>⚙️ Backend Engineering Project</b></summary>
+
+### Overview
+
+A backend-focused project emphasizing API development, scalable architecture, authentication, and database design.
+
+| Category | Details |
+|-----------|---------|
+| Status | 🚧 Planned |
+| Repository | Coming Soon |
+| Live Demo | Coming Soon |
+
+### Planned Stack
+
+- Node.js
+- Fastify
+- PostgreSQL
+- Supabase
+- Docker
+
+### Goals
+
+- REST APIs
+- Authentication
+- Database Optimization
+- Scalable Architecture
+
+</details>
+
+---
+
+<div align="center">
+
+### 💡 More exciting projects are currently under development.
+
+**Building consistently. Learning continuously. Shipping quality software. 🚀**
+
+</div>
+
+---**
