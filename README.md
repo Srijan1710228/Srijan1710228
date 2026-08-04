@@ -340,8 +340,16 @@ A backend-focused project emphasizing API development, scalable architecture, au
 </div>
 
 ---**
-## 🐍 Contribution Snake
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Srijan1710228/Srijan1710228/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Srijan1710228/Srijan1710228/output/github-contribution-grid-snake-dark.svg"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srijan1710228&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
